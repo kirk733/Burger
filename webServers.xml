@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d6a3813-f4d4-443e-aabb-b6690c0e3ca2" name="Eztech" url="http://eztech-solutions.com">
+        <fileTransfer host="eztech-solutions.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
